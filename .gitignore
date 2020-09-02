@@ -1,0 +1,10 @@
+# Compiled class file
+*.class
+
+# Log file
+*.iml
+
+#Ignore IntelliJ folders
+/.idea
+/out
+/epamTask2(2).iml
